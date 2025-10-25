@@ -1,0 +1,25 @@
+ls: Bulunduğun klasörün içeriğini (dosyalar ve alt klasörler) görmeni sağlar.
+
+cd: Terminalde mevcut konumunu değiştirerek farklı bir klasörün içine girmene olanak tanır.
+
+cat: Bir veya daha fazla metin dosyasının içeriğini doğrudan terminal ekranına yazdırır.
+
+pwd: O an içinde bulunduğun klasörün tam yolunu (kök dizinden itibaren) gösterir.
+
+mkdir: Yeni, boş bir dizin (klasör) yaratır.
+
+touch: 0 KB boyutunda yeni, boş bir dosya meydana getirir.
+
+nano: Terminal arayüzünden ayrılmadan metin dosyalarını açmanı, düzenlemeni veya sıfırdan oluşturmanı sağlayan basit bir editördür.
+
+rm: Belirtilen dosyaları veya klasörleri kalıcı olarak sistemden kaldırır.
+
+mv: Bir dosyanın veya klasörün adını değiştirmek ya da onu farklı bir konuma taşımak için kullanılır.
+
+cp: Bir dosya veya klasörün kopyasını oluşturarak belirtilen hedefe yerleştirir.
+
+grep: Bir dosya içerisinde veya bir komutun çıktısında belirli bir metin kalıbını (kelime veya desen) arar.
+
+find: Sistemde, belirli bir konumdan başlayarak (alt klasörler dahil) çeşitli kriterlere (isim, tür, boyut vb.) göre dosya veya klasör arar.
+
+chmod: Dosyaların veya dizinlerin kimler tarafından okunabileceğini, yazılabileceğini veya çalıştırılabileceğini belirleyen erişim haklarını yönetir
