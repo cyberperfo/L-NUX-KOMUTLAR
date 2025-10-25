@@ -1,0 +1,21 @@
+git config --global user.name "Atil Samancioglu"
+
+Bu komut, Git'e sizin adınızı "Atil Samancioglu" olarak ayarlar.
+
+--global bayrağı, bu ayarın bu bilgisayardaki tüm Git projeleriniz (repository'leriniz) için geçerli olacağını belirtir.
+
+git config user.name
+
+Bu komut, o anki ayarlı olan user.name değerini okumak (kontrol etmek) için kullanılır.
+
+Çıktıda Atil Samancioglu yazması, bir önceki komutun başarılı olduğunu gösterir.
+
+git config --global user.email samancioglu.atil@gmail.com
+
+Bu komut, Git'e sizin e-posta adresinizi samancioglu.atil@gmail.com olarak ayarlar.
+
+Yine --global bayrağı sayesinde bu ayar tüm projeleriniz için geçerli olur. Bu e-posta, özellikle GitHub veya GitLab gibi platformlara kod gönderdiğinizde kimliğinizi doğrulamak için çok önemlidir.
+
+git config user.email
+
+Bu da user.email için ayarlanmış olan değeri okur ve doğrular.
