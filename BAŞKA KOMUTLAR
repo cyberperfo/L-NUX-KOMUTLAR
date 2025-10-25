@@ -1,0 +1,20 @@
+GOBUSTER (gobuster): Web sitelerinde dışarıdan görünmeyen, gizlenmiş klasör ve dosya yollarını kaba kuvvet yöntemiyle (deneyerek) bulmaya yarar.
+
+DİRB (dirb): Bir kelime listesi (sözlük) kullanarak web sunucularındaki erişilebilir ancak gizli tutulan dizinleri ve dosyaları tespit eder.
+
+SSH (ssh): Güvenli (şifrelenmiş) bir ağ kanalı üzerinden başka bir bilgisayarın komut satırına erişmeni ve o bilgisayarı uzaktan yönetmeni sağlar.
+
+FTP (ftp): Kendi bilgisayarın ile uzaktaki bir sunucu arasında dosya transferi (gönderme veya alma) yapmak için kullanılan bir protokoldür.
+
+NMAP (nmap): Bir hedef sistemin ağı dinleyen servislerini ve hangi "kapılarının" (portlarının) dışarıya açık olduğunu belirlemek için kullanılan bir ağ haritalama aracıdır.
+
+ENUM4LİNUX (enum4linux): Windows ve Samba tabanlı ağlarda, sistemlerden otomatik olarak kullanıcı adlarını, grup bilgilerini ve ağ paylaşımlarını toplamaya yarayan bir bilgi çıkarma aracıdır.
+GOBUSTER
+Bir web sunucusunda, normalde ziyaretçilerin görmediği veya link verilmemiş gizli klasörleri ve dosyaları kaba kuvvet yöntemiyle bulmaya yarar. Sızma testleri sırasında, sunucuda unutulmuş olabilecek yönetim panelleri, yedek dosyalar veya hassas verileri içeren sayfaları keşfetmek için kullanılır. Bu araç, bulgularını görsel olarak zengin bir çıktıyla sunar.
+
+EXİFTOOL
+Dijital dosyaların (fotoğraflar, PDF'ler veya videolar gibi) içine gömülmüş olan ve gözle görülmeyen üst verileri (Metadata) okumaya ve düzenlemeye yarar. Açık kaynak istihbaratı (OSINT) ve sızma testi süreçlerinde, bir dosyanın ne zaman, nerede veya hangi cihazla oluşturulduğu gibi kritik bilgileri açığa çıkarmak için kullanılır.
+
+DİRB
+Bir web sitesindeki gizli dizinleri ve dosyaları, önceden hazırlanmış bir kelime listesi (sözlük) kullanarak otomatik olarak tarar ve bulur. Tıpkı Gobuster gibi, sızma testlerinde sunucunun arka planında kalmış hassas bilgilere veya yönetim arayüzlerine erişim yolları aramak için kullanılır.
+NOT: Dirb ve Gobuster Arasındaki Fark Belgelere göre, her iki araç da aynı temel işlevi (dizin tarama) yerine getirir. Gobuster, renkli ve daha kolay anlaşılan bir çıktı sunar. Dirb ise kullanımı daha basit bir araç olarak belirtilmiştir, ancak çıktıları Gobuster kadar okunaklı ve renkli değildir.
