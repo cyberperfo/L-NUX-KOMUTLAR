@@ -1,0 +1,29 @@
+site: Aramayı yalnızca belirli bir web sitesi (domain) ile sınırlar.
+
+filetype: Arama sonuçlarında sadece belirli dosya türlerini (pdf, docx vb.) listeler.
+
+inurl: Sadece URL'sinde (web adresi) aradığın kelimeyi içeren sayfaları bulur.
+
+intitle: Sadece sayfa başlığında aradığın kelimeyi içeren sonuçları getirir.
+
+intext: Sadece sayfanın ana metni içinde aradığın kelimeyi barındıran sayfaları gösterir.
+
+allinurl: URL'de birden fazla kelimenin hepsinin geçmesini zorunlu kılar.
+
+allintitle: Başlıkta birden fazla kelimenin hepsinin geçmesini zorunlu kılar.
+
+cache: Bir sayfanın Google'ın hafızasındaki (önbellek) son kaydedilmiş halini gösterir.
+
+related: Girdiğin web sitesine benzer veya ilişkili olan diğer siteleri bulur.
+
+link: Belirttiğin adrese bağlantı (link) veren sayfaları arar.
+
+ext: filetype: operatörüne benzer şekilde, dosya uzantısına göre arama yapar.
+
+OR: İki arama teriminden herhangi birinin bulunmasını sağlar.
+
+- (eksi işareti): Belirli bir kelimeyi içeren sonuçları arama dışı bırakır.
+
+" " (tırnak): Aradığın kelime grubunun tam olarak (birebir aynı sırada) geçmesini sağlar.
+
+* (yıldız/wildcard): Arama terimlerinde bilinmeyen veya değişken bir kelime yerine joker karakter olarak kullanılır.
