@@ -1,5 +1,3 @@
-ls: Bulunduğun klasörün içeriğini (dosyalar ve alt klasörler) görmeni sağlar.
-
 cd: Terminalde mevcut konumunu değiştirerek farklı bir klasörün içine girmene olanak tanır.
 
 cat: Bir veya daha fazla metin dosyasının içeriğini doğrudan terminal ekranına yazdırır.
@@ -14,12 +12,14 @@ nano: Terminal arayüzünden ayrılmadan metin dosyalarını açmanı, düzenlem
 
 rm: Belirtilen dosyaları veya klasörleri kalıcı olarak sistemden kaldırır.
 
-mv: Bir dosyanın veya klasörün adını değiştirmek ya da onu farklı bir konuma taşımak için kullanılır.
-
 cp: Bir dosya veya klasörün kopyasını oluşturarak belirtilen hedefe yerleştirir.
 
 grep: Bir dosya içerisinde veya bir komutun çıktısında belirli bir metin kalıbını (kelime veya desen) arar.
 
+chmod: Dosyaların veya dizinlerin kimler tarafından okunabileceğini, yazılabileceğini veya çalıştırılabileceğini belirleyen erişim haklarını yönetir
+
+mv: Bir dosyanın veya klasörün adını değiştirmek ya da onu farklı bir konuma taşımak için kullanılır.
+
 find: Sistemde, belirli bir konumdan başlayarak (alt klasörler dahil) çeşitli kriterlere (isim, tür, boyut vb.) göre dosya veya klasör arar.
 
-chmod: Dosyaların veya dizinlerin kimler tarafından okunabileceğini, yazılabileceğini veya çalıştırılabileceğini belirleyen erişim haklarını yönetir
+ls: Bulunduğun klasörün içeriğini (dosyalar ve alt klasörler) görmeni sağlar.
