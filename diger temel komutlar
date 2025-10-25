@@ -1,0 +1,19 @@
+whoami: O an terminali kullanan aktif kullanıcının adını gösterir.
+
+id: Aktif kullanıcının kimlik (ID) ve grup bilgilerini listeler.
+
+clear: Terminal ekranındaki tüm metinleri temizleyerek boş bir sayfa açar.
+
+date: Sistemin mevcut tarih ve saat bilgisini gösterir.
+
+uptime: Sistemin ne kadar süredir yeniden başlatılmadığını ve mevcut yük ortalamasını bildirir.
+
+echo: Kendisine verilen metni veya değişkenin değerini terminal ekranına geri yazdırır.
+
+man: Komutların nasıl kullanılacağını açıklayan detaylı kullanım kılavuzlarını (manuel) açar.
+
+exit: Mevcut terminal oturumunu veya kabuğu sonlandırır.
+
+sudo: Bir komutu, normal kullanıcı hakları yerine yönetici (root) yetkileriyle çalıştırmayı sağlar.
+
+history: O oturumda daha önce yazdığın komutların bir listesini gösterir.
